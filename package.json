@@ -1,0 +1,19 @@
+{
+  "name": "placeholder",
+  "version": "1.0.0",
+  "description": "ONLY A PLACEHOLDER",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B-Stefan/placeholder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B-Stefan/placeholder/issues"
+  },
+  "homepage": "https://github.com/B-Stefan/placeholder#readme"
+}
